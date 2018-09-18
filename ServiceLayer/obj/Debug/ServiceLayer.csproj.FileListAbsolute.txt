@@ -1,0 +1,17 @@
+D:\DayUsers\Priyanka\TestApps\BackendAPI_FirstApp\ServiceLayer\bin\Debug\ServiceLayer.dll.config
+D:\DayUsers\Priyanka\TestApps\BackendAPI_FirstApp\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\DayUsers\Priyanka\TestApps\BackendAPI_FirstApp\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\DayUsers\Priyanka\TestApps\BackendAPI_FirstApp\ServiceLayer\bin\Debug\DataLayer.dll
+D:\DayUsers\Priyanka\TestApps\BackendAPI_FirstApp\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\DayUsers\Priyanka\TestApps\BackendAPI_FirstApp\ServiceLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\DayUsers\Priyanka\TestApps\BackendAPI_FirstApp\ServiceLayer\bin\Debug\ViewModel.dll
+D:\DayUsers\Priyanka\TestApps\BackendAPI_FirstApp\ServiceLayer\bin\Debug\DataLayer.pdb
+D:\DayUsers\Priyanka\TestApps\BackendAPI_FirstApp\ServiceLayer\bin\Debug\DataLayer.dll.config
+D:\DayUsers\Priyanka\TestApps\BackendAPI_FirstApp\ServiceLayer\bin\Debug\ViewModel.pdb
+D:\DayUsers\Priyanka\TestApps\BackendAPI_FirstApp\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\DayUsers\Priyanka\TestApps\BackendAPI_FirstApp\ServiceLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\DayUsers\Priyanka\TestApps\BackendAPI_FirstApp\ServiceLayer\obj\Debug\ServiceLayer.csprojAssemblyReference.cache
+D:\DayUsers\Priyanka\TestApps\BackendAPI_FirstApp\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\DayUsers\Priyanka\TestApps\BackendAPI_FirstApp\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+D:\DayUsers\Priyanka\TestApps\BackendAPI_FirstApp\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\DayUsers\Priyanka\TestApps\BackendAPI_FirstApp\ServiceLayer\obj\Debug\ServiceLayer.pdb

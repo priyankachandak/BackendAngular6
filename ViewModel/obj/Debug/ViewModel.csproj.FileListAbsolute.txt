@@ -1,0 +1,6 @@
+D:\DayUsers\Priyanka\TestApps\BackendAPI_FirstApp\ViewModel\bin\Debug\ViewModel.dll
+D:\DayUsers\Priyanka\TestApps\BackendAPI_FirstApp\ViewModel\bin\Debug\ViewModel.pdb
+D:\DayUsers\Priyanka\TestApps\BackendAPI_FirstApp\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
+D:\DayUsers\Priyanka\TestApps\BackendAPI_FirstApp\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+D:\DayUsers\Priyanka\TestApps\BackendAPI_FirstApp\ViewModel\obj\Debug\ViewModel.dll
+D:\DayUsers\Priyanka\TestApps\BackendAPI_FirstApp\ViewModel\obj\Debug\ViewModel.pdb
